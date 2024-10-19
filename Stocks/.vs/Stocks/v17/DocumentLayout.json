@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|c:\\users\\abdlt\\desktop\\singlr_dashboard\\after\\stocks\\stocks.realtime.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|solutionrelative:stocks.realtime.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|c:\\users\\abdlt\\desktop\\singlr_dashboard\\after\\stocks\\stocks.realtime.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|solutionrelative:stocks.realtime.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|c:\\users\\abdlt\\desktop\\singlr_dashboard\\after\\stocks\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|c:\\users\\abdlt\\desktop\\singlr_dashboard\\after\\stocks\\stocks.realtime.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|solutionrelative:stocks.realtime.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|c:\\users\\abdlt\\desktop\\singlr_dashboard\\after\\stocks\\stocks.realtime.api\\stocks\\stocksclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|solutionrelative:stocks.realtime.api\\stocks\\stocksclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|c:\\users\\abdlt\\desktop\\singlr_dashboard\\after\\stocks\\stocks.realtime.api\\stocks\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|solutionrelative:stocks.realtime.api\\stocks\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|c:\\users\\abdlt\\desktop\\singlr_dashboard\\after\\stocks\\stocks.realtime.api\\stocks\\stockpriceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|solutionrelative:stocks.realtime.api\\stocks\\stockpriceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|c:\\users\\abdlt\\desktop\\singlr_dashboard\\after\\stocks\\stocks.realtime.api\\realtime\\stocksfeedupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|solutionrelative:stocks.realtime.api\\realtime\\stocksfeedupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|c:\\users\\abdlt\\desktop\\singlr_dashboard\\after\\stocks\\stocks.realtime.api\\realtime\\stocksfeedhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|solutionrelative:stocks.realtime.api\\realtime\\stocksfeedhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7939949-6E00-4F53-BC7D-D7B5EB333291}|docker-compose.dcproj|c:\\users\\abdlt\\desktop\\singlr_dashboard\\after\\stocks\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F7939949-6E00-4F53-BC7D-D7B5EB333291}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7939949-6E00-4F53-BC7D-D7B5EB333291}|docker-compose.dcproj|c:\\users\\abdlt\\desktop\\singlr_dashboard\\after\\stocks\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7939949-6E00-4F53-BC7D-D7B5EB333291}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7939949-6E00-4F53-BC7D-D7B5EB333291}|docker-compose.dcproj|c:\\users\\abdlt\\desktop\\singlr_dashboard\\after\\stocks\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F7939949-6E00-4F53-BC7D-D7B5EB333291}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|c:\\users\\abdlt\\desktop\\singlr_dashboard\\after\\stocks\\stocks.realtime.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19386C76-73E5-4866-9A36-F98327C7FCC6}|Stocks.Realtime.Api\\Stocks.Realtime.Api.csproj|solutionrelative:stocks.realtime.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-19T12:08:15.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StocksClient.cs",
+              "DocumentMoniker": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\Stocks\\StocksClient.cs",
+              "RelativeDocumentMoniker": "Stocks.Realtime.Api\\Stocks\\StocksClient.cs",
+              "ToolTip": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\Stocks\\StocksClient.cs",
+              "RelativeToolTip": "Stocks.Realtime.Api\\Stocks\\StocksClient.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:33:49.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\Stocks\\StockService.cs",
+              "RelativeDocumentMoniker": "Stocks.Realtime.Api\\Stocks\\StockService.cs",
+              "ToolTip": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\Stocks\\StockService.cs",
+              "RelativeToolTip": "Stocks.Realtime.Api\\Stocks\\StockService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:33:53.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockPriceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\Stocks\\StockPriceResponse.cs",
+              "RelativeDocumentMoniker": "Stocks.Realtime.Api\\Stocks\\StockPriceResponse.cs",
+              "ToolTip": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\Stocks\\StockPriceResponse.cs",
+              "RelativeToolTip": "Stocks.Realtime.Api\\Stocks\\StockPriceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:33:10.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StocksFeedUpdater.cs",
+              "DocumentMoniker": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\Realtime\\StocksFeedUpdater.cs",
+              "RelativeDocumentMoniker": "Stocks.Realtime.Api\\Realtime\\StocksFeedUpdater.cs",
+              "ToolTip": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\Realtime\\StocksFeedUpdater.cs",
+              "RelativeToolTip": "Stocks.Realtime.Api\\Realtime\\StocksFeedUpdater.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:13:53.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StocksFeedHub.cs",
+              "DocumentMoniker": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\Realtime\\StocksFeedHub.cs",
+              "RelativeDocumentMoniker": "Stocks.Realtime.Api\\Realtime\\StocksFeedHub.cs",
+              "ToolTip": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\Realtime\\StocksFeedHub.cs",
+              "RelativeToolTip": "Stocks.Realtime.Api\\Realtime\\StocksFeedHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:11:24.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Stocks.Realtime.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\Program.cs",
+              "RelativeToolTip": "Stocks.Realtime.Api\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:56:01.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Stocks.Realtime.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\appsettings.json*",
+              "RelativeToolTip": "Stocks.Realtime.Api\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T22:15:39.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Stocks.Realtime.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Stocks.Realtime.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T22:15:05.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Stocks.Realtime.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\Stocks.Realtime.Api\\Dockerfile",
+              "RelativeToolTip": "Stocks.Realtime.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-18T22:15:53.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-18T22:07:23.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T22:37:18.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\abdlt\\Desktop\\singlR_Dashboard\\after\\Stocks\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-18T22:07:02.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

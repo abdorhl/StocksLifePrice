@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gimKI53l2/B9G4BLlwzHbHDMkFDrB4pTFASEp918r7I=",
+  "Source": "Stocks.Realtime.Api",
+  "BasePath": "_content/Stocks.Realtime.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

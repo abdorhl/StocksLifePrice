@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Stocks.Realtime.Api.props" />
+</Project>
